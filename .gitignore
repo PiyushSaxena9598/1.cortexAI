@@ -69,3 +69,5 @@ firebase-adminsdk*.json
 # =========================
 .cache/
 tmp/
+
+backend/services/auth/serviceAccountKey.json
